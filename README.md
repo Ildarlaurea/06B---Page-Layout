@@ -1,5 +1,5 @@
 Assignment 06B-page-layout
-Author: Ildar Mamin
+Author: Ildar
 Licence: MIT
 
 
